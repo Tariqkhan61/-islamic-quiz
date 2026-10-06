@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+text
 
-## Getting Started
+---
 
-First, run the development server:
+## 🏃 Getting Started
+
+### Prerequisites
+
+- Node.js 20+ 
+- npm or yarn
+
+### Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/Tariqkhan61/-islamic-quiz.git
+
+# Navigate into the project
+cd --islamic-quiz
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Open http://localhost:3000 in your browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🎯 How to Use
+Browse Categories — Explore 6 Islamic knowledge categories on the homepage
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Start a Quiz — Click any category or hit "Start Quiz Now"
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Answer Questions — Select from 4 options per question
 
-## Learn More
+Get Instant Feedback — Correct answers turn green, wrong ones turn red
 
-To learn more about Next.js, take a look at the following resources:
+See Your Score — View your final score with personalized feedback
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Try Again — Restart or explore other categories
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🗺️ Roadmap
+☑ Homepage with premium design
+☑ Quiz page with 6 categories
+☑ Score system & result screen
+☑ Category navigation
+□ User authentication (Supabase)
+□ Leaderboard system
+□ Daily challenges
+□ Timed mode
+□ Difficulty levels
+□ Question explanations
+□ Multiplayer mode
+□ Mobile app (React Native)
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
-## Deploy on Vercel
+Fork the project
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Create your feature branch (git checkout -b feature/AmazingFeature)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Commit your changes (git commit -m 'Add some AmazingFeature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+👨‍💻 Author
+M Tariq Mahboob
+
+GitHub: @Tariqkhan61
+
+Portfolio: muhammad-tariq-mahboob-portfolio
+
+🙏 Acknowledgments
+Inspired by the need for accessible Islamic education
+
+Built with ❤️ for the Ummah
+
+Questions sourced from authentic Islamic knowledge
+
+⭐ Show Your Support
+If you found this project helpful, please give it a ⭐ on GitHub!
+
+<div align="center">
+Made with ❤️ by M Tariq Mahboob
+
+"Seeking knowledge is an obligation upon every Muslim." — Prophet Muhammad ﷺ
+
+</div> ```
