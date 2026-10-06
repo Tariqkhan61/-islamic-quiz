@@ -27,8 +27,7 @@ A modern, premium Islamic quiz platform built with Next.js 15, featuring 6 categ
 
 ## 🚀 Live Demo
 
-🔗 **[islamic-quiz.vercel.app](https://islamic-quiz.vercel.app)** *(coming soon)*
-
+🔗 [islamic-quiz-seven.vercel.app](https://islamic-quiz-seven.vercel.app)
 ---
 
 ## 🛠️ Tech Stack
