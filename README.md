@@ -1,3 +1,63 @@
+markdown
+# 🕌 IslamicQuiz
+
+> **Master Islamic Knowledge — One Quiz at a Time**
+
+A modern, premium Islamic quiz platform built with Next.js 15, featuring 6 categories of Islamic knowledge with 30+ curated questions. Clean UI, smooth animations, and a fully responsive design.
+
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+---
+
+## ✨ Features
+
+- 📖 **6 Categories** — Quran, Hadith, Seerah, Fiqh, History, Prophets
+- 🎯 **30+ Curated Questions** — Accurate and well-researched Islamic content
+- 🏆 **Score Tracking** — Real-time scoring with instant feedback
+- 🎨 **Premium UI** — Emerald & gold theme with smooth transitions
+- 📱 **Fully Responsive** — Works beautifully on mobile, tablet, and desktop
+- ⚡ **Blazing Fast** — Built on Next.js 15 with Turbopack
+- 🌙 **Result Screen** — Trophy animations and personalized feedback
+- 🔗 **Category Navigation** — Click any category to jump into its quiz
+
+---
+
+## 🚀 Live Demo
+
+🔗 **[islamic-quiz.vercel.app](https://islamic-quiz.vercel.app)** *(coming soon)*
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **Next.js 15** | React framework with App Router |
+| **TypeScript** | Type-safe development |
+| **Tailwind CSS** | Utility-first styling |
+| **Lucide React** | Beautiful icons |
+| **Vercel** | Hosting & deployment |
+
+---
+
+## 📂 Project Structure
+islamic-quiz/
+├── src/
+│ └── app/
+│ ├── layout.tsx # Root layout
+│ ├── page.tsx # Homepage
+│ ├── globals.css # Global styles
+│ └── quiz/
+│ └── page.tsx # Quiz page (dynamic by category)
+├── public/ # Static assets
+├── package.json
+├── tailwind.config.ts
+├── tsconfig.json
+└── README.md
+
 text
 
 ---
@@ -6,7 +66,7 @@ text
 
 ### Prerequisites
 
-- Node.js 20+ 
+- Node.js 20+
 - npm or yarn
 
 ### Installation
@@ -90,3 +150,5 @@ Made with ❤️ by M Tariq Mahboob
 "Seeking knowledge is an obligation upon every Muslim." — Prophet Muhammad ﷺ
 
 </div> ```
+Ctrl + S se save karein
+
