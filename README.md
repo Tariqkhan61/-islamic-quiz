@@ -1,4 +1,3 @@
-markdown
 # 🕌 IslamicQuiz
 
 > **Master Islamic Knowledge — One Quiz at a Time**
@@ -9,6 +8,7 @@ A modern, premium Islamic quiz platform built with Next.js 15, featuring 6 categ
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue?style=for-the-badge&logo=vercel)](https://islamic-quiz-seven.vercel.app)
 
 ---
 
@@ -27,7 +27,7 @@ A modern, premium Islamic quiz platform built with Next.js 15, featuring 6 categ
 
 ## 🚀 Live Demo
 
-🔗 🔗*[islamic-quiz-seven.vercel.app](https://islamic-quiz-seven.vercel.app)
+🔗 **[islamic-quiz-seven.vercel.app](https://islamic-quiz-seven.vercel.app)**
 
 ---
 
@@ -44,21 +44,20 @@ A modern, premium Islamic quiz platform built with Next.js 15, featuring 6 categ
 ---
 
 ## 📂 Project Structure
+
 islamic-quiz/
 ├── src/
-│ └── app/
-│ ├── layout.tsx # Root layout
-│ ├── page.tsx # Homepage
-│ ├── globals.css # Global styles
-│ └── quiz/
-│ └── page.tsx # Quiz page (dynamic by category)
-├── public/ # Static assets
+│   └── app/
+│       ├── layout.tsx        # Root layout
+│       ├── page.tsx          # Homepage
+│       ├── globals.css       # Global styles
+│       └── quiz/
+│           └── page.tsx      # Quiz page (dynamic by category)
+├── public/                   # Static assets
 ├── package.json
 ├── tailwind.config.ts
 ├── tsconfig.json
 └── README.md
-
-text
 
 ---
 
@@ -71,84 +70,88 @@ text
 
 ### Installation
 
-```bash
-# Clone the repository
 git clone https://github.com/Tariqkhan61/-islamic-quiz.git
-
-# Navigate into the project
 cd --islamic-quiz
-
-# Install dependencies
 npm install
-
-# Run development server
 npm run dev
+
 Open http://localhost:3000 in your browser.
 
-🎯 How to Use
-Browse Categories — Explore 6 Islamic knowledge categories on the homepage
+---
 
-Start a Quiz — Click any category or hit "Start Quiz Now"
+## 🎯 How to Use
 
-Answer Questions — Select from 4 options per question
+1. **Browse Categories** — Explore 6 Islamic knowledge categories on the homepage
+2. **Start a Quiz** — Click any category or hit "Start Quiz Now"
+3. **Answer Questions** — Select from 4 options per question
+4. **Get Instant Feedback** — Correct answers turn green, wrong ones turn red
+5. **See Your Score** — View your final score with personalized feedback
+6. **Try Again** — Restart or explore other categories
 
-Get Instant Feedback — Correct answers turn green, wrong ones turn red
+---
 
-See Your Score — View your final score with personalized feedback
+## 🗺️ Roadmap
 
-Try Again — Restart or explore other categories
+- [x] Homepage with premium design
+- [x] Quiz page with 6 categories
+- [x] Score system & result screen
+- [x] Category navigation
+- [ ] User authentication (Supabase)
+- [ ] Leaderboard system
+- [ ] Daily challenges
+- [ ] Timed mode
+- [ ] Difficulty levels
+- [ ] Question explanations
+- [ ] Multiplayer mode
+- [ ] Mobile app (React Native)
 
-🗺️ Roadmap
-☑ Homepage with premium design
-☑ Quiz page with 6 categories
-☑ Score system & result screen
-☑ Category navigation
-□ User authentication (Supabase)
-□ Leaderboard system
-□ Daily challenges
-□ Timed mode
-□ Difficulty levels
-□ Question explanations
-□ Multiplayer mode
-□ Mobile app (React Native)
-🤝 Contributing
+---
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Fork the project
+1. Fork the project
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
-Create your feature branch (git checkout -b feature/AmazingFeature)
+---
 
-Commit your changes (git commit -m 'Add some AmazingFeature')
+## 📄 License
 
-Push to the branch (git push origin feature/AmazingFeature)
+This project is licensed under the **MIT License** — see the LICENSE file for details.
 
-Open a Pull Request
+---
 
-📄 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+## 👨‍💻 Author
 
-👨‍💻 Author
-M Tariq Mahboob
+**M Tariq Mahboob**
 
-GitHub: @Tariqkhan61
+- GitHub: [@Tariqkhan61](https://github.com/Tariqkhan61)
+- Portfolio: [muhammad-tariq-mahboob-portfolio](https://github.com/Tariqkhan61/muhammad-tariq-mahboob-portfolio)
 
-Portfolio: muhammad-tariq-mahboob-portfolio
+---
 
-🙏 Acknowledgments
-Inspired by the need for accessible Islamic education
+## 🙏 Acknowledgments
 
-Built with ❤️ for the Ummah
+- Inspired by the need for accessible Islamic education
+- Built with ❤️ for the Ummah
+- Questions sourced from authentic Islamic knowledge
 
-Questions sourced from authentic Islamic knowledge
+---
 
-⭐ Show Your Support
+## ⭐ Show Your Support
+
 If you found this project helpful, please give it a ⭐ on GitHub!
 
+---
+
 <div align="center">
-Made with ❤️ by M Tariq Mahboob
 
-"Seeking knowledge is an obligation upon every Muslim." — Prophet Muhammad ﷺ
+**Made with ❤️ by M Tariq Mahboob**
 
-</div> ```
-Ctrl + S se save karein
+*"Seeking knowledge is an obligation upon every Muslim."* — Prophet Muhammad ﷺ
 
+</div>
