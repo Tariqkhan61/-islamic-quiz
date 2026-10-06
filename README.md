@@ -92,19 +92,18 @@ Open http://localhost:3000 in your browser.
 
 ## 🗺️ Roadmap
 
-- [x] Homepage with premium design
-- [x] Quiz page with 6 categories
-- [x] Score system & result screen
-- [x] Category navigation
-- [ ] User authentication (Supabase)
-- [ ] Leaderboard system
-- [ ] Daily challenges
-- [ ] Timed mode
-- [ ] Difficulty levels
-- [ ] Question explanations
-- [ ] Multiplayer mode
-- [ ] Mobile app (React Native)
-
+- ✅ Homepage with premium design
+- ✅ Quiz page with 6 categories
+- ✅ Score system & result screen
+- ✅ Category navigation
+- ⬜ User authentication (Supabase)
+- ⬜ Leaderboard system
+- ⬜ Daily challenges
+- ⬜ Timed mode
+- ⬜ Difficulty levels
+- ⬜ Question explanations
+- ⬜ Multiplayer mode
+- ⬜ Mobile app (React Native)
 ---
 
 ## 🤝 Contributing
